@@ -6,8 +6,14 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * 缓存测试入口
- * @author Winter Lau
+ * ====================================================================
+ * 上海聚攒软件开发有限公司
+ * --------------------------------------------------------------------
+ *
+ * @author Nottyjay
+ * @version 1.0.beta
+ * @since 1.0-beta
+ * ====================================================================
  */
 public class CacheTester {
 
